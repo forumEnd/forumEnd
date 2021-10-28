@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @forumEnd!
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning python and skript.
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 How to reach me? Here, but I will send you my discord if necessary.
